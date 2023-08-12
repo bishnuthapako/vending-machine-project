@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# ****React Router Vending Machine****
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*There is no starter code for this.*
 
-## Available Scripts
+For this assignment, you should use the React Router to build a vending machine! Make sure you install the React Router:
 
-In the project directory, you can run:
+```bash
+$ npm install react-router-dom
+```
 
-### `npm start`
+# **React Router Vending Machine[»](https://curric.rithmschool.com/springboard/exercises/react-router-vending/#react-router-vending-machine)**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+*There is no starter code for this.*
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+For this assignment, you should use the React Router to build a vending machine! Make sure you install the React Router:
 
-### `npm test`
+**`$ npm install react-router-dom`**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+What does this mean? Your application should consist of the following:
 
-### `npm run build`
+- A ***VendingMachine*** component, which shows a page with a list of snacks that you can get from the vending machine.
+- At least three different snack components, each one corresponding to a vending machine snack.
+- By clicking on an item in the ***VendingMachine*** you can view one of things inside of the machine. Clicking should update the URL and show the snack that you’ve clicked on.
+- From each snack component, you should be able to go back to the main ***VendingMachine*** component.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Here’s an example of what this might look like.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**We had fun with the styling, don’t feel like your vending machine needs to be this fancy at all! You should not be working on any CSS until the application is completely functional**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[soda.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c713fc6-36bb-4dca-ba53-7be1ca5af27f/soda.mp4)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+##
+video: https://file.notion.so/f/s/9c713fc6-36bb-4dca-ba53-7be1ca5af27f/soda.mp4?id=b267db11-1747-4ef2-81a3-1f26aacb7e8b&table=block&spaceId=163f1722-85e9-4a3c-adba-457a91094f00&expirationTimestamp=1691899200000&signature=vXZaN-XnKiFX7sCILr_6Si8hp-TIfOGVmoXxRzM-kGw&downloadName=soda.mp4
