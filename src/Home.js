@@ -6,15 +6,15 @@ const Home = () => {
 
   return (
     <div className="home">
-      <div className="container vending-container">
+      <div className="vending-container text-center">
       <div className="row">
         <div className="col-lg-4 col-xs-12 rounded-1 text-right">
-          <div className='bg-secondary rounded-3 p-3'>
+          <div className='leftbackground rounded-3 p-3'>
             <h3 className='fw-bold text-white'>HELLO I AM A VENDING MACHINE. WHAT WOULD YOU LIKE TO EAT?</h3>
           </div>
         </div>
-        <div className="col-lg-4 col-xs-12 vending-img">
-        
+        <div className="col-lg-4 col-xs-12">
+        hello
         </div>
         <div className="col-lg-4 col-xs-12">
         <ul>
